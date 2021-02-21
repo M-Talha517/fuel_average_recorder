@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "711377125641",
+    "project_id": "fuel-average-recorder",
+    "storage_bucket": "fuel-average-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711377125641:android:48a51fc30a908f1d54d3d8",
+        "android_client_info": {
+          "package_name": "com.mdot.fuel_average_recorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711377125641-43l3etlqmvee996ms80egv624rkcsmun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtcAAGeYIB-8suDdn3qg2XmwH90B_95A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711377125641-43l3etlqmvee996ms80egv624rkcsmun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
